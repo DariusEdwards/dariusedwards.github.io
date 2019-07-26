@@ -30,3 +30,8 @@ justify-content: space-evenly;
     display: flex;
     justify-content: space-evenly;
 }
+
+body{
+    background: url("GOW.jpg");
+    background-repeat: no-repeat;
+}
