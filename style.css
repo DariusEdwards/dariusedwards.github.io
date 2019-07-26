@@ -1,0 +1,32 @@
+style{
+    font-family: 'Rubik', sans-serif;
+
+}
+
+.pro{
+width: 10px
+}
+
+
+/* p{
+display: inline;
+justify-content: space-evenly;
+} */
+
+.project span{
+    display: block;
+    width: 100px;
+    margin: auto;
+}
+
+.project{
+    display: inline;
+    color: black;
+}
+
+#projects{
+    background: wheat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+}
